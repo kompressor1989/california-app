@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/california-app/static/css/main.d88325f6.css",
+    "main.js": "/california-app/static/js/main.3044a013.js",
+    "static/media/slider.png": "/california-app/static/media/slider.bd420b37195827466be1.png",
+    "static/media/tablet.png": "/california-app/static/media/tablet.af8aeb69665541aa8a61.png",
+    "static/media/watches.png": "/california-app/static/media/watches.b59ec9057aaf33279a31.png",
+    "index.html": "/california-app/index.html",
+    "main.d88325f6.css.map": "/california-app/static/css/main.d88325f6.css.map",
+    "main.3044a013.js.map": "/california-app/static/js/main.3044a013.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d88325f6.css",
+    "static/js/main.3044a013.js"
+  ]
+}
